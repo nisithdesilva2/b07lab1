@@ -1,0 +1,2 @@
+CSCB07 - Lab 1
+Creating a Polynomial class that allows for addition of polynomial objects, evaluation of polynomials, and confirmation of roots
